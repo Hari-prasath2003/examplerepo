@@ -1,1 +1,1 @@
-Hii This is first new file 
+print(12)
